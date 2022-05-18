@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm cz.
+
+A learner of web Development.
+
 <!--
 **u8d5e/u8d5e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
