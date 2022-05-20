@@ -4,6 +4,8 @@ I'm cz.
 
 A learner of web Development.
 
+this is my blog: [The world of cz](https://u8d5e.github.io/)
+
 <!--
 **u8d5e/u8d5e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
