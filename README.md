@@ -2,7 +2,7 @@
 
 I'm cz.
 
-A learner of web Development.
+A learner of IT coder.
 
 this is my blog: [The world of cz](https://u8d5e.github.io/)
 
