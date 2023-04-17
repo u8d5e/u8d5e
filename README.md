@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm cz.
+I'm Zahn.
 
 A learner of IT coder.
 
